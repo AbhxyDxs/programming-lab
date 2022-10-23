@@ -1,3 +1,3 @@
 # programming-lab
 
--Basic programs from MCA S1
+-Basic Python programs from MCA S1
