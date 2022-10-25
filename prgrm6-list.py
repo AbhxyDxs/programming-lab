@@ -48,7 +48,7 @@ flag=0
 for i in int_a:
 	for j in int_b:
 		if i==j:
-			flag=1
+			flag=flag+1
 			print(i ," present in both lists")
 			
 if flag==0:
