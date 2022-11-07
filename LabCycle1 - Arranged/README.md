@@ -30,13 +30,13 @@ Programming Lab - Lab Cycle 1
 
     d) List ordinal value of each element of a word
 
-9) Count occurance of each word in a line of text.
+9) Count occurrence of each word in a line of text.
 
 10) Prompt the user for a list of integers for all values greater than 100, store "over" instead.
 
-11) Store a list of first name, count occurance of 'a' within the list
+11) Store a list of first name, count occurrence of 'a' within the list
 
-12) Get a string from an input string, where all occurance of first character replaced with '$' except first character (Example Onion => Oni$n)
+12) Get a string from an input string, where all occurrence of first character replaced with '$' except first character (Example Onion => Oni$n)
 
 13) Create a string from a given string, where first and last characters exchanged (Example python => nythop)
 
