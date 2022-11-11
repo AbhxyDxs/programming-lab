@@ -5,5 +5,5 @@ for i in a:
 	b.append(int(i))
 c=[x for x in b if x%2!=0]
 print(b)
-print("After Remving Even Numbers : ")
+print("After Removing Even Numbers : ")
 print(c)
